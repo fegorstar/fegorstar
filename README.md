@@ -18,7 +18,7 @@ I'm an innovative, result driven developer, passionate about providing elegant s
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Bootstrap-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Ajax-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
 ## Back-End Stack
@@ -28,7 +28,12 @@ I'm an innovative, result driven developer, passionate about providing elegant s
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-430098?style=for-the-badge&logo=MongoDB&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-430098?style=for-the-badge&logo=Linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-430098?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Kubernetes-430098?style=for-the-badge&logo=Kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-430098?style=for-the-badge&logo=AWS&logoColor=white">
+  
 </div>
 
 
