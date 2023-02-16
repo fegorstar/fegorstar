@@ -1,6 +1,7 @@
 ### I'm Pius Abighe-simon! Welcome to my GitHub👋
 
 I'm a Full Stack Engineer with 5+ years of hands-on experience designing, developing, and implementing app solutions using a wide range of technologies and programming languages.
+
 I'm an innovative, result driven developer, passionate about providing elegant solutions, with goal to be one of the solution providing Software Engineer.I seeks to leverage broad development experience and hands-on technical expertise.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pius-abighe-simon-b5ab83160/)](https://www.linkedin.com/in/pius-abighe-simon-b5ab83160/)
@@ -49,6 +50,6 @@ I'm an innovative, result driven developer, passionate about providing elegant s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fegorstar&langs_count=8&theme=dark)](https://github.com/fegorstar/github-readme-stats)
 
-I am Available for Freelancer.Start a project with Me today!
+I am Available for Freelancer. Start a project with Me today!
 
 
