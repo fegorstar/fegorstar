@@ -45,6 +45,8 @@ I'm an innovative, result driven developer, passionate about providing elegant s
   
 </div>
 
+## Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fegorstar&langs_count=8&theme=dark)](https://github.com/fegorstar/github-readme-stats)
 
 Here are some ideas to get you started:
