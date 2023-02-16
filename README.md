@@ -38,10 +38,19 @@ I'm an innovative, result driven developer, passionate about providing elegant s
   
 </div>
 
+## DevOps Stack
+<div align="center">
+    <img src="https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=Git&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-092E20?style=for-the-badge&logo=Github&logoColor=white">
+    <img src="https://img.shields.io/badge/Gitlab-777BB4?style=for-the-badge&logo=Gitlab&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-430098?style=for-the-badge&logo=Linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-430098?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Kubernetes-430098?style=for-the-badge&logo=Kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-430098?style=for-the-badge&logo=AWS&logoColor=white">
+  
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCandidoDev&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**andrec762/andrec762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fegorstarDev&langs_count=8&theme=dark)](https://github.com/fegorstar/github-readme-stats)
 
 Here are some ideas to get you started:
 
