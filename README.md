@@ -1,5 +1,5 @@
-### Hi there 👋
-
+I'm Andre Candido! Welcome to my GitHub👋
+Linkedin Badge
 <!--
 **fegorstar/fegorstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
