@@ -3,7 +3,7 @@
 I'm a Full Stack Engineer with 5+ years of hands-on experience designing, developing, and implementing app solutions using a wide range of technologies and programming languages.
 I'm an innovative, result driven developer, passionate about providing elegant solutions, with goal to be one of the solution providing Software Engineer.I seeks to leverage broad development experience and hands-on technical expertise.
 
-My LinkedIn Profile: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pius-abighe-simon-b5ab83160/)](https://www.linkedin.com/in/pius-abighe-simon-b5ab83160/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pius-abighe-simon-b5ab83160/)](https://www.linkedin.com/in/pius-abighe-simon-b5ab83160/)
 
 
 ## About me
