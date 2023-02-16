@@ -16,11 +16,11 @@ I'm an innovative, result driven developer, passionate about providing elegant s
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Ajax-007ACC?style=for-the-badge&logo=Ajax&logoColor=white">
+  <img src="https://img.shields.io/badge/ajax-007ACC?style=for-the-badge&logo=ajax&logoColor=white">
   <img src="https://img.shields.io/badge/Jquery-007ACC?style=for-the-badge&logo=Jquery&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/semanticUI-20232A?style=for-the-badge&logo=semanticUI&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/SemanticUI-20232A?style=for-the-badge&logo=semanticui&logoColor=61DAFB">
 </div>
 
 ## Back-End Stack
