@@ -31,11 +31,6 @@ I'm an innovative, result driven developer, passionate about providing elegant s
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-430098?style=for-the-badge&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-430098?style=for-the-badge&logo=Linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-430098?style=for-the-badge&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Kubernetes-430098?style=for-the-badge&logo=Kubernetes&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-430098?style=for-the-badge&logo=AWS&logoColor=white">
-  
 </div>
 
 ## DevOps Stack
@@ -50,7 +45,7 @@ I'm an innovative, result driven developer, passionate about providing elegant s
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fegorstarDev&langs_count=8&theme=dark)](https://github.com/fegorstar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fegorstar&langs_count=8&theme=dark)](https://github.com/fegorstar/github-readme-stats)
 
 Here are some ideas to get you started:
 
