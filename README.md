@@ -50,6 +50,13 @@ I'm an innovative, result driven developer, passionate about providing elegant s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fegorstar&langs_count=8&theme=dark)](https://github.com/fegorstar/github-readme-stats)
 
+
+## Contact Me
 I am Available for Freelancer. Start a project with Me today!
+<p align="left">
+  <a href="https://www.linkedin.com/in/pius-abighe-simon/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:oghenefegor24@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 
 
