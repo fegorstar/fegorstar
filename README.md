@@ -9,7 +9,7 @@ I'm an innovative, result driven developer, passionate about providing elegant s
 
 ## About me
 - :computer: I'm Full-Stack Developer!
-- :books: I’m currently learning React/TypeScript to improve my front-end skills.
+- :books: I’m currently learning React/TypeScript/DevOps to improve my front-end skills and Industry Standard DevOps Practices.
 - :outbox_tray: 2023 Goals: To become one of the solution providing Software Engineer.
 
 ## Front-End Stack
