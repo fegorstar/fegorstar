@@ -1,8 +1,8 @@
 ### I'm Pius Abighe-simon! Welcome to my GitHub👋
 
-I'm a Full Stack Engineer with 5+ years of hands-on experience designing, developing, and implementing app solutions using a wide range of technologies and programming languages.
+I’m a Full Stack Engineer with 5+ years of hands-on experience designing, developing, and implementing app solutions that address diverse business needs. My expertise covers frontend (web), backend development, and DevOps, ensuring comprehensive solutions that prioritize user satisfaction. 
 
-I'm an innovative, result driven developer, passionate about providing elegant solutions, with goal to be one of the solution providing Software Engineer.I seeks to leverage broad development experience and hands-on technical expertise.
+Collaborating closely with cross-functional teams, I've successfully delivered applications across various sectors. With a strong foundation in agile methodologies, I excel in driving projects from inception to Minimum Viable Product (MVP), thriving in both startup and enterprise settings.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pius-abighe-simon-b5ab83160/)](https://www.linkedin.com/in/pius-abighe-simon-b5ab83160/)
 
