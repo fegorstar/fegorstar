@@ -10,7 +10,7 @@ Collaborating closely with cross-functional teams, I've successfully delivered a
 ## About me
 - :computer: I'm Full-Stack Developer!
 - :books: I’m currently learning React/TypeScript/DevOps to improve my front-end skills and Industry Standard DevOps Practices.
-- :outbox_tray: 2023 Goals: To become one of the solution providing Software Engineer.
+- :outbox_tray: 2024 Goals: Expand my scope to doing more DevOps work and Learning AI Tools
 
 ## Front-End Stack
 <div align='center'>
